@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at [**My Portfolio Website**](https://yourdomain.com)  
+- 🙋‍♂️ All about me is at [**My Portfolio Website**](https://yatinder.netlify.app/)  
 - 🔭 I’m currently working on something exciting at my **Web Agency**
 - 🌱 I’m learning and building projects using the **MERN Stack**
 - 👯 I’m open to collaborating on **Full-Stack Web Projects**
@@ -27,11 +27,10 @@ Tools & Platforms: Git & GitHub, Postman
 
 ### ❤️ Let's Get Connected:
 
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- [Twitter](https://twitter.com/YOUR_TWITTER)
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- [Blog](https://yourblog.com)
-- [Instagram](https://instagram.com/YOUR_INSTAGRAM)
+- [GitHub](https://github.com/yatin232/yatin23)
+- [Twitter](https://x.com/YatinderRawat)
+- [LinkedIn](https://www.linkedin.com/in/yatinder-singh-rawat-453182240/)
+- [Instagram](https://www.instagram.com/the_rambhakt07/)
 
 ---
 

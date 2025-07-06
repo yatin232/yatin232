@@ -1,5 +1,4 @@
-## 👋 Hello, I'm **Yatinder Singh Rawat** From Greater Noida
-
+## 👋 Hello, I'm **Yatinder Singh Rawat** 
 ---
 
 ### 👨🏻‍💻 About Me:
